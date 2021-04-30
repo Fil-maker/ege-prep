@@ -1,5 +1,5 @@
 k = 3
-with open('../files/type1.txt') as file:
+with open('../files/type1a.txt') as file:
     text = file.read().split('\n')
     cnt = int(text[0])
     min_dif = None
