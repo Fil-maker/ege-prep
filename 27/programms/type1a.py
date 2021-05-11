@@ -1,3 +1,4 @@
+# Ищем такую максимальную сумму по одномучислу от пары, чтобы она не делилась на k (3)
 k = 3
 with open('../files/type1a.txt') as file:
     text = file.read().split('\n')
